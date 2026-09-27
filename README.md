@@ -1,3 +1,7 @@
+> [!NOTE]
+> **Mirror of [anote-ai/Research-AnnotateBench](https://github.com/anote-ai/Research-AnnotateBench).** Built at [Anote](https://github.com/anote-ai), which I founded, together with the contributors in this repository's commit history.
+> The original is the maintained version. Please open issues and PRs there.
+
 # research-annotatebench
 
 **Motivation:** Annotation budget is a primary constraint in NLP system development. This benchmark systematically compares annotation strategies across public text-classification datasets and label budgets using learning curves.
